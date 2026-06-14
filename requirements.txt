@@ -1,0 +1,9 @@
+requests
+pandas
+numpy
+pyarrow
+openpyxl
+customtkinter
+tkcalendar
+pyinstaller
+psycopg[binary]
